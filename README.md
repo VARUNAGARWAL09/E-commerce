@@ -3,7 +3,6 @@
 A fully fledged e-Commerce web application made using NodeJS, MongoDB, HTML, CSS and EJS view engine. 
 Front-end is completely designed by using HTML, CSS, Bootsrap 5 and JavaScript with mobile responsiveness.
 
-***https://www.lap4you.shop***
 
 ## Features - Dev
 
@@ -56,3 +55,4 @@ Front-end is completely designed by using HTML, CSS, Bootsrap 5 and JavaScript w
 - bcrypt for hashing password
 
 - nodemailer for sending emails
+
